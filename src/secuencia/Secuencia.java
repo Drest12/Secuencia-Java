@@ -1,8 +1,8 @@
 
-package proyectosecuencia;
+package secuencia;
 
 
-public class ProyectoSecuencia {
+public class Secuencia {
 
      public static void main(String[] args) {
         // Prueba incrementando el prefijo "AB"
